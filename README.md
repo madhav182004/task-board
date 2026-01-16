@@ -2,8 +2,6 @@
 
 A **real-time Kanban-style task management application** built using **React, Firebase, and Vercel**, featuring authentication, drag-and-drop task movement, and a clean, modern UI.
 
----
-
 ## 🚀 Live Demo
 
 🔗 **Hosted Application:** https://task-board-hazel-eight.vercel.app
